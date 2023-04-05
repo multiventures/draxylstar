@@ -1,0 +1,199 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1%;
+    background-size: 100vw 90vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-clip: padding-box;
+}
+
+.comp_name{
+    text-decoration: underline overline;
+    color: green;
+    width: auto;
+    padding: 2%;
+    opacity: 90%;
+    clear: right;
+
+}
+h1 span{
+    color: blueviolet;
+    text-decoration: ;
+}
+.comp_name h1{
+    background-color: white;
+    clear:right;
+    width: 210px;
+    padding: 2%;
+}
+.vid_bg{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    opacity:0.9;
+    z-index: -1;
+}
+table{
+    list-style: none;
+    padding: 1%;
+    max-width: 690px;
+    margin: 2%;
+    background-color: white;
+}
+.vision{ 
+    color: green;
+    border-radius: 2%;
+    width: auto;
+    height: auto;
+    border-radius: 2%;
+    padding: 4%;
+}
+table{
+    margin-left: -0.5%;
+    //transform: translateX(-20px);
+    transform: translateY(-20px);
+}
+table th{
+    background: skyblue;
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+    object-position: center;
+}
+table img{
+    border-radius: 6%;
+    width: 80%;
+    max-width: 79%;
+    height: 5vh;
+    transform: scale(0.9) translate(40px 50px);
+
+    object-fit: contain;
+}
+
+table th a:hover{
+    color:blueviolet;
+    opacity: 50%;
+    text-decoration: overline;
+    transform: translate(1px, 1px) scale(1.1);
+}
+strong{
+    color:crimson;
+    text-transform: uppercase;
+    text-decoration: overline underline;
+    padding-top: 2%;
+}
+.services{
+    width: 85vw;
+    background-color: blueviolet;
+    padding: 2%;
+    border: 10px solid green;
+   // margin-left: 1vw;
+}
+.comp_name{
+    clear:right;
+
+}
+.services img{
+    width: 90%;
+    float: right;
+    border-radius: 10%;
+    height: 90%;
+    padding: 7%;
+    
+}
+#process{
+    background-image: url("etc/bruce-mars-8YG31Xn4dSw-unsplash.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+    background-clip: padding-box;
+    max-width: 85vw;
+    margin-left: 2%;
+    color: grey;
+    margin-top: 2%;
+}
+ol{
+    border-bottom: 48px solid black;
+    border-right: 39px solid rgb(142, 29, 248);
+    border-left: 39px solid rgb(142, 29, 248);
+    border-top: 48px solid black;
+    //text-shadow: 30px solid black;
+    border-radius: 2%;
+}
+#guarantors{
+    width: inherit;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    //display: flex;
+    min-width: none;
+    min-height: 100px;
+    align-self: center;
+    
+}
+form{
+    background:url('etc/bg_image.jpg');
+    padding-left:15%;
+    background-repeat:no-repeat;
+    margin-right:0;
+    width: inherit;
+    align-self: center;
+    color: crimson;
+    object-fit: cover;
+    background-size: auto 1050px;
+    max-width: 600px;
+    align-items: right;
+    border: 5px solid firebrick;
+}
+form .btn1{
+    padding-left:3%;
+    padding-right: 3%;
+    padding:2%;
+    border: green 3px solid;
+    box-shadow: 100% black;
+    text-transform: uppercase;
+    background-color:white;
+    opacity: 0.9;
+    margin-top: 2%;
+}
+ 
+.row{
+    align-items: center;
+    margin: auto;
+}
+
+fieldset{
+    width: 20%;
+}
+fieldset input{
+    height: 15px;
+    padding: 0;
+    width: 200px;
+    align-items: center;
+    background-color: bisque;
+    border: 5px solid crimson;
+    padding: 2%;
+    color: blueviolet;
+}
+legend{
+    margin-left: 20%;
+    background: green;
+    padding: 1%;
+    color: white;
+    border-radius: 3%;
+    text-transform: uppercase;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    height: 95px;
+}
+footer button{
+    border: 4px solid goldenrod;
+    box-shadow: 40px white;
+    padding: 1%;
+    margin-top: 4%;
+}
