@@ -130,6 +130,9 @@ ol{
     align-self: center;
     
 }
+form a{
+    color: goldenrod;
+}
 form{
     background:url('etc/bg_image.jpg');
     padding-left:15%;
@@ -154,6 +157,7 @@ form .btn1{
     background-color:white;
     opacity: 0.9;
     margin-top: 2%;
+    cursor: pointer;
 }
  
 .row{
@@ -163,6 +167,8 @@ form .btn1{
 
 fieldset{
     width: 20%;
+    border-image: linear-gradient(10deg, green, goldenrod,crimson);
+    border-image-slice: 1;
 }
 fieldset input{
     height: 15px;
