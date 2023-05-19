@@ -170,8 +170,7 @@ form .btn1{
 
 fieldset{
     width: 20%;
-    border-image: transparent;
-    border-image-slice: 1;
+    border: transparent;
 }
 fieldset input{
     height: 16px;
@@ -198,7 +197,7 @@ legend{
     background: transparent;
     padding: 1%;
     color: white;
-    border-radius: 3%;
+    border: transparent;
     text-transform: uppercase;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
