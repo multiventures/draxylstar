@@ -177,7 +177,7 @@ fieldset input{
     height: 16px;
     width: 200px;
     align-items: center;
-    background-color: rgb(236, 234, 234,0.7)
+    background-color: rgb(236, 234, 234,0.7);
     border: 2px solid crimson;
     padding: 10px;
     color: blueviolet;
