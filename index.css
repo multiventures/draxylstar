@@ -179,7 +179,7 @@ fieldset input{
     align-items: center;
     background-color: bisque;
     border: 2px solid crimson;
-    padding: 2%;
+    padding: 10px;
     color: blueviolet;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
@@ -187,9 +187,11 @@ fieldset input{
     border-bottom-right-radius: 20px;
     text-align: center;
 }
-fieldset input:focus{
+input:focus{
     border: 3px solid rgba(252, 250, 251, 0.6);
-    box-shadow: none;  
+    box-shadow: none;
+    background-color: rgb(236, 234, 234,0.7);
+    color: dodgerblue;
 }
 legend{
     margin-left: 20%;
