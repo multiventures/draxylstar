@@ -174,7 +174,7 @@ fieldset{
     border-image-slice: 1;
 }
 fieldset input{
-    height: 30px;
+    height: 27px;
     width: 200px;
     align-items: center;
     background-color: bisque;
@@ -190,8 +190,7 @@ fieldset input{
 input:focus{
     border: 3px solid rgba(252, 250, 251, 0.6);
     box-shadow: none;
-    background-color: rgb(236, 234, 234,0.7);
-    color: dodgerblue;
+    background-color: rgb(236, 234, 234,0.5);
 }
 legend{
     margin-left: 20%;
