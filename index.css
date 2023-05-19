@@ -186,6 +186,7 @@ fieldset input{
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     text-align: center;
+    outline: none;
 }
 input:focus{
     border: 3px solid rgba(252, 250, 251, 0.6);
