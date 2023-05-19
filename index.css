@@ -141,7 +141,7 @@ form{
     align-self: center;
     color: crimson;
     object-fit: cover;
-    background-size: auto 1050px;
+    background-size: auto 100%;
     max-width: 600px;
     align-items: right;
     border: 5px solid firebrick;
