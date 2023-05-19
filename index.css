@@ -174,18 +174,18 @@ fieldset{
     border-image-slice: 1;
 }
 fieldset input{
-    height: 15px;
-    padding: 0;
+    height: 25px;
     width: 200px;
     align-items: center;
     background-color: bisque;
     border: 2px solid crimson;
-    padding-left: 4px;
+    padding: 2%;
     color: blueviolet;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
+    text-align: center;
 }
 fieldset input:focus{
     border: white;
