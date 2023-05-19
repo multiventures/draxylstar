@@ -180,7 +180,7 @@ fieldset input{
     align-items: center;
     background-color: bisque;
     border: 2px solid crimson;
-    padding: 2%;
+    padding-left: 4px;
     color: blueviolet;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
