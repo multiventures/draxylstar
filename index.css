@@ -136,7 +136,7 @@ form{
     background:url('etc/bg_image.jpg');
     padding-left:15%;
     background-repeat:no-repeat;
-    margin-right:0;
+    margin: auto;
     width: inherit;
     align-self: center;
     color: crimson;
