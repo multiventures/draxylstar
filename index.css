@@ -114,8 +114,8 @@ strong{
 }
 ol{
     border-bottom: 48px solid black;
-    border-right: 39px solid rgb(142, 29, 248);
-    border-left: 39px solid rgb(142, 29, 248);
+    border-right: 39px solid black;
+    border-left: 39px solid black;
     border-top: 48px solid black;
     //text-shadow: 30px solid black;
     border-radius: 2%;
