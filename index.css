@@ -17,7 +17,6 @@ body{
 }
 h1 span{
     color: blueviolet;
-    text-decoration: ;
 }
 .comp_name h1{
     background-color: white;
@@ -49,7 +48,6 @@ table{
 }
 table{
     margin-left: -0.5%;
-    //transform: translateX(-20px);
     transform: translateY(-20px);
 }
 table th{
@@ -86,7 +84,6 @@ strong{
     background-color: blueviolet;
     padding: 2%;
     border: 10px solid green;
-   // margin-left: 1vw;
 }
 .comp_name{
     clear:right;
@@ -117,14 +114,12 @@ ol{
     border-right: 39px solid rgb(142, 29, 248);
     border-left: 39px solid rgb(142, 29, 248);
     border-top: 48px solid black;
-    //text-shadow: 30px solid black;
     border-radius: 2%;
 }
 #guarantors{
     width: inherit;
     background-repeat: no-repeat;
     object-fit: cover;
-    //display: flex;
     min-width: none;
     min-height: 100px;
     align-self: center;
